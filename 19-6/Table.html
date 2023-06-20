@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Time-Table</title>
+    <style>
+        table{
+            text-align: center;
+            height: 400px;
+            width: 800px;
+           
+        }
+        thead{
+
+            background-color: rgb(216, 231, 9);
+        }
+        tbody{
+
+            background-color: rgb(12, 236, 233);
+        }
+    </style>
+</head>
+<body>
+    <table border="1" style=" border-collapse: collapse;">
+        <thead>
+            <tr>
+                <th>Time</th>
+                <th>Monday</th>
+                <th>Tuesday</th>
+                <th>Wednesday</th>
+                <th>Thursday</th>
+                <th>Friday</th>
+                <th>Saturday</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>10.20 To 11.10</td>
+                <td rowspan="2">DSGT</td>
+                <td>EM</td>
+                <td rowspan="2">OOPU</td>
+                <td>OOPU</td>
+                <td>PP</td>
+                <td rowspan="2">OOPU</td>
+            </tr>
+            <tr>
+                <td>11.10 To 12.00</td>
+                <td>DSGT</td>
+                <td>OS</td>
+                <td>EM</td>
+            </tr>
+            <tr>
+                <td>12.00 To 12.20</td>
+                <td colspan="6"><b>RECESS</b></td>
+            </tr>
+            <tr>
+                <td>12.20 To 01.10</td>
+                <td>OS</td>
+                <td rowspan="2">OS</td>
+                <td>OOPU</td>
+                <td rowspan="2">PP</td>
+                <td rowspan="2">CAMP</td>
+                <td>DSGT</td>
+            </tr>
+            <tr>
+                <td>01.10 To 02.00</td>
+                <td>CAMP</td>
+                <td>CAMP</td>
+                <td>PP</td>
+            </tr>
+            <tr>
+                <td>02.00 To 02.20</td>
+                <td colspan="6"><b>RECESS</b></td>
+            </tr>
+            <tr>
+                <td>02.20 TO 03.10</td>
+                <td>PP</td>
+                <td>OS</td>
+                <td>DSGT</td>
+                <td>CAMP</td>
+                <td>OOPU</td>
+                <td rowspan="2">LIBRARY</td>
+            </tr>
+            <tr>
+                <td>02.00 To 02.20</td>
+                <td>LIBRARY</td>
+                <td>LIBRARY</td>
+                <td>LIBRARY</td>
+                <td>LIBRARY</td>
+                <td>LIBRARY</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
