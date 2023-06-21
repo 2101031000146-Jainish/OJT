@@ -1,0 +1,134 @@
+ /* Css of First Home Page */
+ 
+ body{
+
+            background-color: black;
+        }
+
+         header {
+        background-color: #333;
+        color: #fff;
+        padding: 10px;
+        text-align: center;
+        }
+        fieldset{
+
+            background-color:black;
+        }
+        center{
+
+            color: rgb(4, 224, 249);
+            font-size: 50px;
+        }
+        
+        .navbar{
+
+            background-color: black;
+            
+        }
+        a{
+
+            position: relative;
+            color: rgb(71, 240, 4);
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 30px;            
+            border: #fff;
+        }
+        h2{
+            color: red;
+            text-align: center;
+        }
+        h3{
+
+            font-size: 25px;
+            color: rgb(9, 244, 248);
+        }
+        pre{
+
+            color: white;
+            font-size: 15px;
+            font-weight: bold;
+        }
+        p{
+
+            color: white;
+            font-size: 20px;
+            font-weight: bold;
+        }
+        h1{
+
+            color: aquamarine;
+            text-align: center;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+
+
+/* Css of resaturant page */
+       
+        center{
+
+            color: rgb(4, 224, 249);
+            font-size: 50px;
+        }
+        
+        
+        h2{
+            color: red;
+            text-align: center;
+        }
+        h3{
+
+            font-size: 25px;
+            color: rgb(9, 244, 248);
+        }
+        pre{
+
+            color: white;
+            font-size: 15px;
+            font-weight: bold;
+        }
+        
+        h1{
+
+            color: aquamarine;
+            text-align: center;
+        }
+       
+
+/* css Of Conatactus page */
+
+center{
+
+    color: rgb(4, 224, 249);
+    font-size: 50px;
+}
+
+
+
+h2{
+    color: red;
+    text-align: center;
+}
+h3{
+
+    font-size: 25px;
+    color: rgb(9, 244, 248);
+}
+
+p{
+
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+h1{
+
+    color: aquamarine;
+    text-align: center;
+}
