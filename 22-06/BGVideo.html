@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Background-Video</title>
+    <style>
+        
+        .Background-Video{
+
+            position: fixed;
+            top: 0%;
+            left: 0%;
+            bottom: 0%;
+            right: 0%;
+            overflow: hidden;
+            z-index: -1;
+            background-size: 100%;
+
+        }
+
+        .Video{
+
+            position: fixed;
+            height: auto;
+            width: auto;
+            min-width: 100%;
+            min-height: 100%;
+        }
+
+        h2{
+
+            position: fixed;
+            text-align: center;
+            color: aqua;
+            font-size: 100px;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="Background-Video">
+        <video src="/22-06/Images/bg.mp4" controls loop class="Video"></video>
+    </div>
+
+    <h2>Hello World</h2>
+</body>
+</html>

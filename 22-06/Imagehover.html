@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram</title>
+    <style>
+
+        .container-img{
+            
+            position: relative;
+            height: 300px;
+            width: 300px;
+        }
+
+        .Image{
+
+            display: block;
+            height: 300px;
+            width: 300px;
+            transition: 1s;
+            border-radius: 30%;
+        }
+
+        .overlay{
+
+            position: absolute;
+            top: 0%;
+            bottom: 0%;
+            left: 0%;
+            right: 0%;
+            height: 100%;
+            width: 100%;
+            opacity: 0;
+            transition: 1s;
+            background-image: linear-gradient(rgb(228, 24, 184),rgb(13, 90, 255),rgb(27, 234, 16));
+        }
+
+        .container-img:hover .overlay{
+
+            opacity: 0.8;
+        }
+
+        .container-img:hover .Image{
+
+            transform: rotateY(180deg);
+        }
+
+        .text{
+
+            position: absolute;
+            text-align: center;
+            color: rgb(0, 0, 0);
+            transform: translate(-50% , -50%);
+            top: 50%;
+            left: 50%;
+            font-size: 30px;
+            opacity: 2;
+            font-weight: 900;
+            
+
+
+        }
+    </style>
+</head>
+<body>
+    <h2>Image Transition</h2>
+
+    <div class="container-img">
+        <img src="./Images/Instagram" alt="" class="Image">
+        <div class="overlay">
+            <div class="text">
+                <h2>Instagram</h2>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
