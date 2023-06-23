@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grid Layout</title>
+
+    <style>
+
+        *{
+            font-size: 25px;
+            font-weight: bold;
+        }
+
+        #Header{
+
+            background-color: rgb(234, 132, 132);
+            height: 50px;
+            padding-top: 20px;
+            width: 98%;
+            padding-left: 2%;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+
+        #Navigation,#Footer{
+
+            background-color: rgb(139, 211, 23);
+            height: 50px;
+            padding-top: 20px;
+            width: 98%;
+            padding-left: 2%;
+            text-align: center;
+            margin-bottom: 10px;
+
+        }
+
+        #Banner{
+
+            background-color: rgb(12, 230, 233);
+            height: 50px;
+            padding-top: 60px;
+            width: 98%;
+            padding-left: 2%;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+
+        .Body{
+
+            height: 600px;
+            width: 100%;
+            margin-bottom: 10px;
+        }
+
+        #Sidebar{
+
+            width: 28%;
+            margin-right: 2%;
+        }
+
+        #Bodyarena{
+
+            width: 70%;
+        }
+
+        .Body div{
+
+            float: left;
+            height: 320px;
+            padding-top: 280px;
+            text-align: center;
+            background-color: rgb(240, 7, 167);
+        }
+    </style>
+</head>
+<body>
+        <div class="container">
+            <div id="Header">Header</div>
+            <div id="Navigation">Navigation</div>
+            <div id="Banner">Banner</div>
+            <div class="Body">
+                <div id="Sidebar">Side Bar</div>
+                <div id="Bodyarena">Body Arena</div>
+            </div>
+            <div id="Footer">Footer</div>
+        </div>
+</body>
+</html>
