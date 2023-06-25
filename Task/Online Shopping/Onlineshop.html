@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Shopping</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" type="text/css">
+
+    <style>
+        *{
+            font-size: 25px;
+            font-weight: bold;
+        }
+        /*Css of navbar*/
+        #Header{
+            background-color: rgb(12, 19, 238);
+            color: white;
+            height: 70px;
+            padding-top: 20px;
+            width: 98%;
+            font-size: 50px;
+            font-weight: bold;
+            padding-left: 2%;
+            margin-bottom: 10px;
+            padding-bottom: 10px;
+            text-align: center;
+        }
+        /*CSS of navbar*/
+        #Navigation{
+
+            background-color: rgb(139, 211, 23);
+            height: 80px;
+            padding-top: 10px;
+            width: 98%;
+            padding-left: 2%;
+            margin-bottom: 10px;
+        }
+        /*CSS of sponsers*/
+        #Banner{
+            height: 150px;
+            width: 100%;
+        }
+        .box{
+            height: 140px;
+            width: 23.5%;
+            margin-left: 20px;
+        }
+        #Banner div{
+            float: left;
+            background-color: rgb(255, 255, 255);
+            margin-top: 0px;
+        }
+        /*Css of shopping cart and menu*/
+        .Body{
+
+            height: 650px;
+            width: 100%;
+            margin-bottom: -250px;
+        }
+        #Sidebar{
+            width: 28%;
+            margin-right: 2%;
+            text-align: left;
+            background-color: rgb(233, 222, 222);    
+        }
+        #Bodyarena{
+            width: 70%;
+        }
+        .Body div{
+            float: left;
+            height: 345px;
+            /* padding-top: 280px; */
+            margin-top: 10px;
+            background-color: rgb(234, 208, 208);
+        }
+        /*CSS of footer*/
+        #Footer{
+            background-color: rgb(139, 211, 23);
+            height: 60px;
+            padding-top: 20px;
+            width: 100%;
+            text-align: center;
+            margin-top: 0px;
+            margin-bottom: 10px;
+            padding-bottom: 25px;
+        }
+        /*CSS of images*/
+        img{
+            height: 260px;
+            width: 85%;
+            padding-left: 10px;
+            padding-right: 15px;
+            margin-left: 5px;
+            margin-right: -15px;
+        }
+        /*css of Icons*/
+        i{
+            color: black;
+            font-weight: bold;
+            font-family: Arial;
+        }
+        i:hover{
+            color: red;
+        }
+    </style>
+</head>
+<body>
+        <div class="container">
+            <!-- /*Heading Part*/ -->
+            <div id="Header">Online Shopping</div>
+            <!-- /*Navbar*/ -->
+            <div id="Navigation">
+                <pre>
+                    <a href=""><i class="fa-solid fa-user">   Account</i></a> <a href=""><i class="fa-solid fa-house">   Home</i></a>   <a href=""><i class="fa-solid fa-cart-arrow-down">   Cart</i></a>  <a href=""><i class="fa-solid fa-phone">   Contact Us</i></a>   <a href=""><i class="fa-solid fa-gear">   Setting</i></a> 
+                </pre>
+            </div>
+            <!-- /*Sponser*/ -->
+            <div id="Banner">
+                <div class="box"><img src="./images/nike.jpeg" alt="" style=" height: 140px; width: 100%; border-color: rgb(255, 255, 255);"></div>
+                <div class="box"><img src="./images/Adidas.jpeg" alt="" style=" height: 140px; width: 100%; border-color: rgb(255, 255, 255);"></div>
+                <div class="box"><img src="./images/Myntra.jpeg" alt="" style=" height: 140px; width: 100%; border-color: rgb(255, 255, 255);"></div>
+                <div class="box"><img src="./images/zara.jpeg" alt="" style=" height: 140px; width: 100%; border-color: rgb(255, 255, 255)"></div>
+            </div>
+            <!-- /*Menu*/ -->
+            <div class="Body">
+                <div id="Sidebar">
+                    <table style=" border-collapse: collapse; width: 100%;">
+                       <tr><td><pre><a href=""><i class="fa-solid fa-user-tie">   Clothes</i></a></pre></td></tr>
+                       <tr><td><pre><a href=""><i class="fa-solid fa-socks">   Shoes</i></a></pre></td></tr>
+                       <tr><td><pre><a href=""><i class="fa-solid fa-clock">   Watch</i></a></pre></td></tr>
+                       <tr><td><pre><a href=""><i class="fa-solid fa-ring">   Accessories</i></a></pre></td></tr>
+                    </table>
+                </div>
+                <!-- */Shopping cart*/ -->
+                <div id="Bodyarena">
+                    <table style=" margin-top: 14px; border-collapse: collapse;">
+                        <tr>
+                            <td><img src="./images/nike shirt.jpeg" alt=""></td>
+                            <td><img src="./images/Adidas shirt.jpeg" alt=""></td>
+                            <td><img src="./images/fbwatch.jpeg" alt=""></td>
+                            <td><img src="./images/nikeshoes.jpeg" alt=""></td>
+                            <td><img src="./images/Adidas shoes.jpeg" alt=""></td>
+                        </tr>
+                        <tr>
+                           <td><pre>  Nike T-Shirt</pre></td>
+                           <td><pre>  Adidas T-Shirt</pre></td>
+                           <td><pre>  FireBolt Watch</pre></td>
+                           <td><pre>  Nike Shoes</pre></td>
+                           <td><pre>  Adidas Shoes</pre></td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            <!-- /*Footer*/ -->
+            <div id="Footer"> <footer>
+                <p>&copy; 2023 Restaurant Name. All rights reserved.</p>
+              </footer> </div>
+        </div>
+</body>
+</html>
