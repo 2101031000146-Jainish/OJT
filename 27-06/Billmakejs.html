@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BIll making</title>
+</head>
+<body>
+    <select name="" id="product">
+        <option value="15000">Samsung A14</option>
+        <option value="25000">Samsung A23</option>
+        <option value="35000">Samsung S20</option>
+        <option value="120000">Samsung S23 Ultra</option>
+    </select>
+    <hr>
+
+    Price:-<input type="text" id="price">
+    <hr>
+    Qauntity<input type="text" id="count">
+    <hr>
+    Total Amount<input type="text" id="total">
+
+   
+
+    <script>
+
+        var product = document.getElementById('product');
+        var total = document.getElementById('total');
+        var count = document.getElementById('count');
+        var price = document.getElementById('price');
+
+        product.addEventListener('change',()=>{ price.value=product.value; })
+        total.addEventListener('focus',()=>{ total.value=count.value*product.value; })
+
+    </script>
+</body>
+</html>

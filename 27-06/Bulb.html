@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mouse Hover</title>
+</head>
+<body>
+    <img src="/27-06/bulboff.jpeg" alt="" id="bulb">
+    <script>
+
+        var a=document.getElementById('bulb');
+
+        a.addEventListener('mouseover',()=>{a.src="bulbon.jpeg";})
+
+        a.addEventListener('mouseout',()=>{a.src="bulboff.jpeg";})
+    </script>
+</body>
+</html>
