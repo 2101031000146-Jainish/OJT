@@ -1,0 +1,15 @@
+C:\Users\Jainish\source\repos\HelloWorldClg\HelloWorldClg\obj\Debug\net6.0\HelloWorldClg.csproj.AssemblyReference.cache
+C:\Users\Jainish\source\repos\HelloWorldClg\HelloWorldClg\obj\Debug\net6.0\HelloWorldClg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jainish\source\repos\HelloWorldClg\HelloWorldClg\obj\Debug\net6.0\HelloWorldClg.AssemblyInfoInputs.cache
+C:\Users\Jainish\source\repos\HelloWorldClg\HelloWorldClg\obj\Debug\net6.0\HelloWorldClg.AssemblyInfo.cs
+C:\Users\Jainish\source\repos\HelloWorldClg\HelloWorldClg\obj\Debug\net6.0\HelloWorldClg.csproj.CoreCompileInputs.cache
+C:\Users\Jainish\source\repos\HelloWorldClg\HelloWorldClg\bin\Debug\net6.0\HelloWorldClg.exe
+C:\Users\Jainish\source\repos\HelloWorldClg\HelloWorldClg\bin\Debug\net6.0\HelloWorldClg.deps.json
+C:\Users\Jainish\source\repos\HelloWorldClg\HelloWorldClg\bin\Debug\net6.0\HelloWorldClg.runtimeconfig.json
+C:\Users\Jainish\source\repos\HelloWorldClg\HelloWorldClg\bin\Debug\net6.0\HelloWorldClg.dll
+C:\Users\Jainish\source\repos\HelloWorldClg\HelloWorldClg\bin\Debug\net6.0\HelloWorldClg.pdb
+C:\Users\Jainish\source\repos\HelloWorldClg\HelloWorldClg\obj\Debug\net6.0\HelloWorldClg.dll
+C:\Users\Jainish\source\repos\HelloWorldClg\HelloWorldClg\obj\Debug\net6.0\refint\HelloWorldClg.dll
+C:\Users\Jainish\source\repos\HelloWorldClg\HelloWorldClg\obj\Debug\net6.0\HelloWorldClg.pdb
+C:\Users\Jainish\source\repos\HelloWorldClg\HelloWorldClg\obj\Debug\net6.0\HelloWorldClg.genruntimeconfig.cache
+C:\Users\Jainish\source\repos\HelloWorldClg\HelloWorldClg\obj\Debug\net6.0\ref\HelloWorldClg.dll

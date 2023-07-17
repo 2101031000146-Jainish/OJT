@@ -1,0 +1,17 @@
+C:\Users\Jainish\source\repos\FeedbackForm\FeedbackForm\bin\Debug\net6.0-windows\FeedbackForm.exe
+C:\Users\Jainish\source\repos\FeedbackForm\FeedbackForm\bin\Debug\net6.0-windows\FeedbackForm.deps.json
+C:\Users\Jainish\source\repos\FeedbackForm\FeedbackForm\bin\Debug\net6.0-windows\FeedbackForm.runtimeconfig.json
+C:\Users\Jainish\source\repos\FeedbackForm\FeedbackForm\bin\Debug\net6.0-windows\FeedbackForm.dll
+C:\Users\Jainish\source\repos\FeedbackForm\FeedbackForm\bin\Debug\net6.0-windows\FeedbackForm.pdb
+C:\Users\Jainish\source\repos\FeedbackForm\FeedbackForm\obj\Debug\net6.0-windows\FeedbackForm.csproj.AssemblyReference.cache
+C:\Users\Jainish\source\repos\FeedbackForm\FeedbackForm\obj\Debug\net6.0-windows\FeedbackForm.Form1.resources
+C:\Users\Jainish\source\repos\FeedbackForm\FeedbackForm\obj\Debug\net6.0-windows\FeedbackForm.csproj.GenerateResource.cache
+C:\Users\Jainish\source\repos\FeedbackForm\FeedbackForm\obj\Debug\net6.0-windows\FeedbackForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jainish\source\repos\FeedbackForm\FeedbackForm\obj\Debug\net6.0-windows\FeedbackForm.AssemblyInfoInputs.cache
+C:\Users\Jainish\source\repos\FeedbackForm\FeedbackForm\obj\Debug\net6.0-windows\FeedbackForm.AssemblyInfo.cs
+C:\Users\Jainish\source\repos\FeedbackForm\FeedbackForm\obj\Debug\net6.0-windows\FeedbackForm.csproj.CoreCompileInputs.cache
+C:\Users\Jainish\source\repos\FeedbackForm\FeedbackForm\obj\Debug\net6.0-windows\FeedbackForm.dll
+C:\Users\Jainish\source\repos\FeedbackForm\FeedbackForm\obj\Debug\net6.0-windows\refint\FeedbackForm.dll
+C:\Users\Jainish\source\repos\FeedbackForm\FeedbackForm\obj\Debug\net6.0-windows\FeedbackForm.pdb
+C:\Users\Jainish\source\repos\FeedbackForm\FeedbackForm\obj\Debug\net6.0-windows\FeedbackForm.genruntimeconfig.cache
+C:\Users\Jainish\source\repos\FeedbackForm\FeedbackForm\obj\Debug\net6.0-windows\ref\FeedbackForm.dll

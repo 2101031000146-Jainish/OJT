@@ -1,0 +1,17 @@
+C:\Users\Jainish\source\repos\PizzaApp\PizzaApp\bin\Debug\net6.0-windows\PizzaApp.exe
+C:\Users\Jainish\source\repos\PizzaApp\PizzaApp\bin\Debug\net6.0-windows\PizzaApp.deps.json
+C:\Users\Jainish\source\repos\PizzaApp\PizzaApp\bin\Debug\net6.0-windows\PizzaApp.runtimeconfig.json
+C:\Users\Jainish\source\repos\PizzaApp\PizzaApp\bin\Debug\net6.0-windows\PizzaApp.dll
+C:\Users\Jainish\source\repos\PizzaApp\PizzaApp\bin\Debug\net6.0-windows\PizzaApp.pdb
+C:\Users\Jainish\source\repos\PizzaApp\PizzaApp\obj\Debug\net6.0-windows\PizzaApp.csproj.AssemblyReference.cache
+C:\Users\Jainish\source\repos\PizzaApp\PizzaApp\obj\Debug\net6.0-windows\PizzaApp.Form1.resources
+C:\Users\Jainish\source\repos\PizzaApp\PizzaApp\obj\Debug\net6.0-windows\PizzaApp.csproj.GenerateResource.cache
+C:\Users\Jainish\source\repos\PizzaApp\PizzaApp\obj\Debug\net6.0-windows\PizzaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jainish\source\repos\PizzaApp\PizzaApp\obj\Debug\net6.0-windows\PizzaApp.AssemblyInfoInputs.cache
+C:\Users\Jainish\source\repos\PizzaApp\PizzaApp\obj\Debug\net6.0-windows\PizzaApp.AssemblyInfo.cs
+C:\Users\Jainish\source\repos\PizzaApp\PizzaApp\obj\Debug\net6.0-windows\PizzaApp.csproj.CoreCompileInputs.cache
+C:\Users\Jainish\source\repos\PizzaApp\PizzaApp\obj\Debug\net6.0-windows\PizzaApp.dll
+C:\Users\Jainish\source\repos\PizzaApp\PizzaApp\obj\Debug\net6.0-windows\refint\PizzaApp.dll
+C:\Users\Jainish\source\repos\PizzaApp\PizzaApp\obj\Debug\net6.0-windows\PizzaApp.pdb
+C:\Users\Jainish\source\repos\PizzaApp\PizzaApp\obj\Debug\net6.0-windows\PizzaApp.genruntimeconfig.cache
+C:\Users\Jainish\source\repos\PizzaApp\PizzaApp\obj\Debug\net6.0-windows\ref\PizzaApp.dll

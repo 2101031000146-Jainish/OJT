@@ -1,0 +1,13 @@
+C:\Users\Jainish\source\repos\Database2\Database2\bin\Debug\mydb.mdf
+C:\Users\Jainish\source\repos\Database2\Database2\bin\Debug\mydb_log.ldf
+C:\Users\Jainish\source\repos\Database2\Database2\bin\Debug\Database2.exe.config
+C:\Users\Jainish\source\repos\Database2\Database2\bin\Debug\Database2.exe
+C:\Users\Jainish\source\repos\Database2\Database2\bin\Debug\Database2.pdb
+C:\Users\Jainish\source\repos\Database2\Database2\obj\Debug\Database2.csproj.AssemblyReference.cache
+C:\Users\Jainish\source\repos\Database2\Database2\obj\Debug\Database2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jainish\source\repos\Database2\Database2\obj\Debug\Database2.Form1.resources
+C:\Users\Jainish\source\repos\Database2\Database2\obj\Debug\Database2.Properties.Resources.resources
+C:\Users\Jainish\source\repos\Database2\Database2\obj\Debug\Database2.csproj.GenerateResource.cache
+C:\Users\Jainish\source\repos\Database2\Database2\obj\Debug\Database2.csproj.CoreCompileInputs.cache
+C:\Users\Jainish\source\repos\Database2\Database2\obj\Debug\Database2.exe
+C:\Users\Jainish\source\repos\Database2\Database2\obj\Debug\Database2.pdb
